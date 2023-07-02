@@ -389,3 +389,8 @@ h1 {
 .php {
   margin-top: -165px;
 }
+
+.play a {
+  font-size: 35px;
+  text-decoration: none;
+}
